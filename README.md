@@ -11,3 +11,5 @@ Ce projet vise à analyser les ventes mensuelles d’une boutique fictive de sma
 
 ✅ ⏰ Moment optimal pour une campagne publicitaire
 ➡️ Détermination des périodes idéales pour maximiser les ventes.
+
+Lien pour la presentation :https://www.canva.com/design/DAGes14q494/rfiIpMjqAZKq9tXaqrF5hw/edit?utm_content=DAGes14q494&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
