@@ -2,7 +2,7 @@
 🎯 Objectif
 Ce projet vise à analyser les ventes mensuelles d’une boutique fictive de smartphones et gadgets à partir de données fournies sous forme de fichiers CSV.
 
-🔍 Points étudiés
+🔍 ##Points étudiés:
 ✅ 📅 Meilleur mois en chiffre d’affaires
 ➡️ Identification du mois où les ventes ont été les plus élevées.
 
